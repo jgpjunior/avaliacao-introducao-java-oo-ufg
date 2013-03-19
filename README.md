@@ -1,7 +1,8 @@
+### Desenvolvimento Versão - 2
+=====
 ### Trabalho para a introdução a progamação OO - java 
 ======
-Desenvolvimento Versão - 2
-Desenvolver o inicio de uma aplicação padrão que sirva de base para o desenvolvimento de qualquer outra aplicação.
+Desenvolvimento Versão - 2Desenvolver o inicio de uma aplicação padrão que sirva de base para o desenvolvimento de qualquer outra aplicação.
 Será um sistema modular, ou seja, pode se dizer que cada módulo será um sistema que compartilham os mesmos recursos que são comuns a todos os sistemas como cadastro de  pessoas, perfis, permissões de acesso etc. Por ser um sistema modular, o módulo padrão é o de segurança, que será o foco do trabalho.
 
 O módulo de Segurança deverá conter os seguintes cadastros:
